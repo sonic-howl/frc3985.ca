@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://frc3985.ca/sitemap.xml.gz
+Sitemap: https://docs.frc3985.ca/sitemap.xml.gz
