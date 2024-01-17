@@ -16,4 +16,4 @@ edit:
   repo: https://github.com/sonic-howl/frc3985.ca/edit
 
 footer:
-  copyright: "&copy; It's {{ year }}. Created with <3 in Montreal"
+  copyright: "It's {{ year }}. Created with <3 in Montréal"
