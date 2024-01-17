@@ -7,5 +7,8 @@ branding:
 #links:
 #- text: Getting Started
 #  link: https://retype.com/guides/getting-started/
+edit:
+  repo: https://github.com/sonic-howl/frc3985.ca/edit
+
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
