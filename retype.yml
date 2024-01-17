@@ -4,11 +4,16 @@ url: docs.frc3985.ca
 branding:
   title: Sonic Howl Documentation Page for First Robotics Competition
   label: Docs
-#links:
-#- text: Getting Started
-#  link: https://retype.com/guides/getting-started/
+links:
+- text: Home
+  link: ./
+  icon: home
+- text: GitHub
+  link: https://github.com/sonic-howl
+  icon: mark-github
+  target: blank
 edit:
   repo: https://github.com/sonic-howl/frc3985.ca/edit
 
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; It's {{ year }}. Created with <3 in Montreal"
