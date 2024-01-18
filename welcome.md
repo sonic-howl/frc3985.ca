@@ -1,6 +1,6 @@
-# UNDER CONSTRUCTION
+ # **Welcome to 3985 Docs.**
 
-This page is blank.
+This page is blank?
 
 Please contribute and fix that <3
 
