@@ -1,6 +1,5 @@
 label: competition
 order: 1.0
----
 
 # 2024 Season
 
