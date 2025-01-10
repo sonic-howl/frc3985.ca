@@ -1,6 +1,7 @@
 ---
 label: Python Lessons
 order: 2.0
+icon: dot
 ---
 
 # 2024 Start of Season Python Lessons
