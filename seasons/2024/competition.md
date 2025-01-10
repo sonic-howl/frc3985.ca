@@ -1,6 +1,7 @@
 ---
 label: competition
 order: 1.0
+icon: dot
 ---
 
 
