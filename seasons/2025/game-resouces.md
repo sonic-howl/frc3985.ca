@@ -1,6 +1,27 @@
+---
 icon: dot
 title: Game Resouces
 ---
+# 2025 [Season Game Manual](https://firstfrc.blob.core.windows.net/frc2025/Manual/2025GameManual.pdf)
+## Commonly Used Individual Sections
+### Build Season
+[Section 4 Game Overview](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-04GameOverview.pdf)
+[Section 5 ARENA (V1, updated Jan 7)](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-05ARENA.pdf)
+[Section 6 Game Details (V1, updated Jan 7)](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-06GameDetails.pdf)
+[Section 7 Game Rules (V1, updated Jan 7)](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-07GameRules.pdf)
+[Section 8 ROBOT Construction (V1, updated Jan 7)](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-08ROBOTConstruction.pdf)
+[Section 9 Inspection & Eligibility](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-09InspectionEligibility.pdf)
+
+### Competition
+[Section 9 Inspection & Eligibility](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-09InspectionEligibility.pdf)
+[Section 10 Tournaments (V1, updated Jan 7)
+](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-10Tournaments.pdf)
+[Section 12 Regional Tournaments (V1, updated Jan 7)
+](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-12RegionalTournaments.pdf)
+[Section 14 Event Rules (V1, updated Jan 7)
+](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-14EventRules.pdf)
+[Section 15 Glossary
+](https://firstfrc.blob.core.windows.net/frc2025/Manual/Sections/2025GameManual-15Glossary.pdf)
 
 # Construction
 
