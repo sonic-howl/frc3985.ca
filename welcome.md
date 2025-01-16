@@ -1,8 +1,9 @@
 ---
 icon: rocket
 ---
- 
 # **Welcome to 3985 Docs.**
+
+![](/sonic-howl-logo.svg)
 
 > "A place to put stuff so we can find it easily."
 
