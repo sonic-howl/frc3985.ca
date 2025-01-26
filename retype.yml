@@ -1,6 +1,7 @@
 input: .
 output: .retype
 url: docs.frc3985.ca 
+favicon: static/favicon.ico
 branding:
   title: Sonic Howl Documentation Page for First Robotics Competition
   label: Docs
