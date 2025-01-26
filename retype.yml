@@ -14,7 +14,7 @@ links:
   target: blank
 - text: Instagram
   link: https://www.instagram.com/sonichowl_3985/
-  icon: mark-instagram
+  icon: icon-device-camera
   target: blank  
 edit:
   repo: https://github.com/sonic-howl/frc3985.ca/edit
