@@ -21,6 +21,9 @@ links:
   link: https://cad.onshape.com/documents?nodeId=629d4624a8f0a848cc29513c&resourceType=folder
   icon: beaker
   target: blank
+- text: The Blue Alliance
+  link: https://www.thebluealliance.com/team/3985
+  icon: bookmark
 edit:
   repo: https://github.com/sonic-howl/frc3985.ca/edit
 exclude:
