@@ -17,8 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-dotnet@v2
-          with:
-            dotnet-version: '7.x.x'
+        with:
+          dotnet-version: '7.x.x'
 
       - uses: retypeapp/action-build@latest
 
