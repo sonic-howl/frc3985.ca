@@ -24,6 +24,6 @@ links:
 edit:
   repo: https://github.com/sonic-howl/frc3985.ca/edit
 exclude:
-  - "/static/*"
+  - "/static/.*"
 footer:
   copyright: "It's {{ year }}. Created with <3 in Montréal"
