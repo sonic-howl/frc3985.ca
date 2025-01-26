@@ -16,6 +16,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      - uses: setup-dotnet@v2
 
       - uses: retypeapp/action-build@latest
 
