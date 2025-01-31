@@ -1,5 +1,6 @@
 ---
 label: Links
+description: An assembly of useful links for all of the components of a robot
 ---
 
 # Useful Links
