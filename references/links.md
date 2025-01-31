@@ -11,7 +11,7 @@ label: Links
 ### GitHub
 [frc2025 Repository](https://github.com/sonic-howl/frc2025)
 
-### WPILib
-[WPILib Docs - Introduction](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html)
+### WPILib Docs
+[Introduction](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html)
 
 [Command Based Programming](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html)
