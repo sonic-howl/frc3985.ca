@@ -24,3 +24,7 @@ description: An assembly of useful links for all of the components of a robot
 [Introduction](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html)
 
 [Command Based Programming](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html)
+
+### Testing & Calibration
+[Configuring a PID Controller | YAGSL Docs](https://docs.yagsl.com/configuring-yagsl/how-to-tune-pidf) -> [WPILib References](https://docs.yagsl.com/configuring-yagsl/how-to-tune-pidf#wpi-walkthrough)
+
