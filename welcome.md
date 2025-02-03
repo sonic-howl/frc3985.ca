@@ -3,7 +3,7 @@ icon: rocket
 ---
 # **Welcome to 3985 Docs.**
 
-[!ref Useful Links!](/references/links.md)
+[!ref Useful Links](/references/links.md)
 
 [!ref Game Resources](/seasons/2025/game-resources.md)
 
