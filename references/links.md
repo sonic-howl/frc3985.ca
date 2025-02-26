@@ -5,11 +5,7 @@ description: An assembly of useful links for all of the components of a robot
 
 # Useful Links
 ## Electrical
-[WPILib Status Lights Quick Reference](https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html)
 ### Motors & Motor Controllers
-[SPARK MAX Status Indicator LED Patterns](https://docs.revrobotics.com/brushless/spark-max/status-led)
-
-[TalonFX Status Light Reference](https://v6.docs.ctr-electronics.com/en/2024/docs/hardware-reference/talonfx/index.html#status-light-reference)
 
 ### Radio
 [Wiring Guide](https://frc-radio.vivid-hosting.net/overview/wiring-your-radio)
