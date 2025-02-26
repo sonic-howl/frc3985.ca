@@ -23,7 +23,7 @@ Turning: 14 <br>
 ### Back Right:
 Driving: 15 <br>
 Turning: 16 <br>
-## Elevator Subsystem
+## Actuator Subsystems
 Counting up from 20, with related components grouped together
 ### Elevator
 Left: 20 <br>
