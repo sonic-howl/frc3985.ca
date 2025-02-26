@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793923495820">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793924695960">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
 
     <!-- Primary Meta Tags -->
-    <title>Can IDs</title>
-    <meta name="title" content="Can IDs">
-    <meta name="description" content="Incomplete">
+    <title>Motor Controllers</title>
+    <meta name="title" content="Motor Controllers">
+    <meta name="description" content="As of the 2025 competition, all IDs and naming are Field-Oriented. Swerve IDs are in the 10s Elevator IDs are in the 20s ">
 
     <!-- Canonical -->
     <link rel="canonical" href="https://docs.frc3985.ca/references/can-ids/">
@@ -19,23 +19,23 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://docs.frc3985.ca/references/can-ids/">
-    <meta property="og:title" content="Can IDs">
-    <meta property="og:description" content="Incomplete">
+    <meta property="og:title" content="Motor Controllers">
+    <meta property="og:description" content="As of the 2025 competition, all IDs and naming are Field-Oriented. Swerve IDs are in the 10s Elevator IDs are in the 20s ">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://docs.frc3985.ca/references/can-ids/">
-    <meta property="twitter:title" content="Can IDs">
-    <meta property="twitter:description" content="Incomplete">
+    <meta property="twitter:title" content="Motor Controllers">
+    <meta property="twitter:description" content="As of the 2025 competition, all IDs and naming are Field-Oriented. Swerve IDs are in the 10s Elevator IDs are in the 20s ">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/favicon.ico" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.793923495820" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.793924695960" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793923495820" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793924695960" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793923495820" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793924695960" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -258,23 +258,83 @@
                                 <!-- Rendered if sidebar right is enabled -->
                                 <div id="docs-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
-<doc-anchor-target id="can-ids" class="break-words">
+<doc-anchor-target id="motor-controllers" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#can-ids">#</doc-anchor-trigger>
-        <span>Can IDs</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#motor-controllers">#</doc-anchor-trigger>
+        <span>Motor Controllers</span>
     </h1>
 </doc-anchor-target>
 <div class="-mt-3 mb-12 flex flex-wrap text-sm text-gray-400 dark:text-dark-350 items-center">
-    <div class="flex items-center shrink-0">Published&nbsp;<span>2025-01-31</span></div>
+    <div class="flex items-center shrink-0">Published&nbsp;<span>2025-01-26</span></div>
 </div>
 
-<doc-anchor-target id="motor-controllers">
+<p><strong>As of the 2025 competition, all IDs and naming are Field-Oriented.</strong>
+Swerve IDs are in the 10s <br>
+Elevator IDs are in the 20s <br></p>
+<doc-anchor-target id="swerve-subsystem">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#swerve-subsystem">#</doc-anchor-trigger>
+        <span>Swerve Subsystem</span>
+    </h2>
+</doc-anchor-target>
+<p>Drive -&gt; Odd, starting at 9 <br>
+Turn -&gt; Even, starting at 10 <br>
+Goes from Front Left to Front Right, Back Left, Back Right <br></p>
+<doc-anchor-target id="front-left">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#motor-controllers">#</doc-anchor-trigger>
-        <span>Motor Controllers:</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#front-left">#</doc-anchor-trigger>
+        <span>Front Left:</span>
     </h3>
 </doc-anchor-target>
-<p>Incomplete</p>
+<p>Driving: 9 <br>
+Turning: 10 <br></p>
+<doc-anchor-target id="front-right">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#front-right">#</doc-anchor-trigger>
+        <span>Front Right:</span>
+    </h3>
+</doc-anchor-target>
+<p>Driving: 11 <br>
+Turning: 12 <br></p>
+<doc-anchor-target id="back-left">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#back-left">#</doc-anchor-trigger>
+        <span>Back Left:</span>
+    </h3>
+</doc-anchor-target>
+<p>Driving: 13 <br>
+Turning: 14 <br></p>
+<doc-anchor-target id="back-right">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#back-right">#</doc-anchor-trigger>
+        <span>Back Right:</span>
+    </h3>
+</doc-anchor-target>
+<p>Driving: 15 <br>
+Turning: 16 <br></p>
+<doc-anchor-target id="elevator-subsystem">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#elevator-subsystem">#</doc-anchor-trigger>
+        <span>Elevator Subsystem</span>
+    </h2>
+</doc-anchor-target>
+<p>Counting up from 20, with related components grouped together</p>
+<doc-anchor-target id="elevator">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#elevator">#</doc-anchor-trigger>
+        <span>Elevator</span>
+    </h3>
+</doc-anchor-target>
+<p>Left: 20 <br>
+Right: 21 <br></p>
+<doc-anchor-target id="pickup">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#pickup">#</doc-anchor-trigger>
+        <span>Pickup</span>
+    </h3>
+</doc-anchor-target>
+<p>Top: 22 <br>
+Bottom: 23 <br></p>
 
                                 
                                 <!-- Required only on API pages -->
