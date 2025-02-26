@@ -5,6 +5,8 @@ icon: rocket
 
 [!ref Useful Links](/references/links.md)
 
+[!ref Status Indicators](/references/status-indicators.md)
+
 [!ref Game Resources](/seasons/2025/game-resources.md)
 
 ![](/sonic-howl-logo.svg)
