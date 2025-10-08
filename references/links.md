@@ -4,6 +4,10 @@ description: An assembly of useful links for all of the components of a robot
 ---
 
 # Useful Links
+
+[Preseason Miro Board](https://miro.com/app/board/uXjVJ-OgOQ8=/)
+
+
 ## Electrical
 ### Motors & Motor Controllers
 
