@@ -8,6 +8,14 @@ description: An assembly of useful links for all of the components of a robot
 [Preseason Miro Board](https://miro.com/app/board/uXjVJ-OgOQ8=/)
 
 
+## CAD
+### Onshape
+[Onshape Signup](https://www.onshape.com/en/education/sign-up)
+[Onshape Course - CAD Basics](https://learn.onshape.com/learning-paths/introduction-to-cad)
+[Onshape Course - Intro to CAD](https://learn.onshape.com/learning-paths/intro-to-cad)
+[Onshape Course Catalog](https://learn.onshape.com/catalog)
+[Onshape4FRC](https://onshape4frc.com/)
+
 ## Electrical
 ### Motors & Motor Controllers
 
