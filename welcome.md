@@ -1,7 +1,7 @@
 ---
 icon: rocket
 ---
-# **Welcome to 3985 Docs.**
+# **Welcome to 3985's Documentation Page.**
 
 [!ref Useful Links](/references/links.md)
 
